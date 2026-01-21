@@ -1,2 +1,2 @@
 # LastLook-v2-Distribution
-Official releases for LastLook v2.
+LastLook v2: A high-performance Personal Relationship Manager built with Tauri and React.
