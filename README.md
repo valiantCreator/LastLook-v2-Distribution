@@ -1,6 +1,6 @@
 # LastLook v2 — "Gold Mine" (v1.0.0)
 
-**The high-performance Personal Relationship Manager for DITs and Content Creators.**
+**The high-performance Data Management Tool for DITs and Content Creators.**
 
 LastLook v2 is a professional data management tool designed to bridge the gap between high-speed transfers and human-readable verification. Built with a **Rust-powered Tauri backend** and a **React frontend**, it offers a "Gold Mine" of features for users who cannot afford to lose a single frame of data.
 
